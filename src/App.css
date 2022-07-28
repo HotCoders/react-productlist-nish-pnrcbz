@@ -36,7 +36,8 @@ td, th {
     text-align: center;
   }
   table tr:last-child { background:#88c2f1; 
-   border-bottom:2px solid #091f2e
+   border-bottom:2px solid #091f2e;
+   font-weight : bold;
   }
   input{
     margin-right:20px;
